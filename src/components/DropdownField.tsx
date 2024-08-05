@@ -27,7 +27,7 @@ export default function DropdownField({ data, id, name }: DropdownFieldProps) {
         </select>
 
         <img
-          src="src/assets/Expand_down.svg"
+          src="/Expand_down.svg"
           alt="Expand arrow"
           className="pointer-events-none absolute inset-y-1/2 right-5 -translate-y-1/2"
         />

@@ -38,9 +38,9 @@ const dropdownFieldData = [
 
 function App() {
   return (
-    <div className="relative mx-auto max-h-[1148px] min-h-screen max-w-[1280px] bg-[url('./assets/bg-image.svg')] pb-12">
+    <div className="relative mx-auto max-h-[1148px] min-h-screen max-w-[1280px] bg-[url('/bg-image.svg')] pb-12">
       <img
-        src="src/assets/contact-form-icon.svg"
+        src="/contact-form-icon.svg"
         alt="Logo"
         className="absolute left-5 top-5"
       />
